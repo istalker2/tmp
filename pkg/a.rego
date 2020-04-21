@@ -1,3 +1,3 @@
 package testrepo.pkg
 
-allow=true
+allow=false
