@@ -1,4 +1,4 @@
-package folder2
+package folder2.subfolder
 
 default allow = false
 
