@@ -3,5 +3,5 @@ package folder2
 default allow = false
 
 allow {
-  input.user.id == "tim2"
+  input.user.id == "tim3"
 }
