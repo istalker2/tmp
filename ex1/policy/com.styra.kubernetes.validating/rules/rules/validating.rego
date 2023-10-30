@@ -1,5 +1,5 @@
 package policy["com.styra.kubernetes.validating"].rules.rules
-#test23
+#test234
 
 #default allowed = false
 #default allowed = false
