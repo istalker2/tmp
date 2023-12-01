@@ -1,4 +1,4 @@
-package rules2
+package rules.rules2
 #test
 
 import data.dataset
