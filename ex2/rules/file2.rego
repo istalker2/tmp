@@ -1,4 +1,0 @@
-package rules
-
-
-# file2
