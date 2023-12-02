@@ -4,3 +4,5 @@ package rules.rules3
 import data.dataset
 
 default main = false
+
+test = data.global.graphql.util.graphql_document
