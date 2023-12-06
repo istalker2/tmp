@@ -1,5 +1,5 @@
 package stacks.a6daca00de8741f1b14452c397bced4a.policy["com.styra.kubernetes.validating"].rules.rules
-#test
+#test 
 
 #fn1(rule) {
 # rule = true
